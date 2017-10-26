@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_baser/demo_baser.iml" filepath="$PROJECT_DIR$/demo_baser/demo_baser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_frecso/demo_frecso.iml" filepath="$PROJECT_DIR$/demo_frecso/demo_frecso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_glide/demo_glide.iml" filepath="$PROJECT_DIR$/demo_glide/demo_glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_imageloader/demo_imageloader.iml" filepath="$PROJECT_DIR$/demo_imageloader/demo_imageloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_mvp+dagger2/demo_mvp+dagger2.iml" filepath="$PROJECT_DIR$/demo_mvp+dagger2/demo_mvp+dagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_okhttp3/demo_okhttp3.iml" filepath="$PROJECT_DIR$/demo_okhttp3/demo_okhttp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_picasso/demo_picasso.iml" filepath="$PROJECT_DIR$/demo_picasso/demo_picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_retrofit/demo_retrofit.iml" filepath="$PROJECT_DIR$/demo_retrofit/demo_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_volley/demo_volley.iml" filepath="$PROJECT_DIR$/demo_volley/demo_volley.iml" />
+    </modules>
+  </component>
+</project>

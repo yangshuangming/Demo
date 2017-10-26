@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_baser" />
+            <option value="$PROJECT_DIR$/demo_frecso" />
+            <option value="$PROJECT_DIR$/demo_glide" />
+            <option value="$PROJECT_DIR$/demo_imageloader" />
+            <option value="$PROJECT_DIR$/demo_mvp+dagger2" />
+            <option value="$PROJECT_DIR$/demo_okhttp3" />
+            <option value="$PROJECT_DIR$/demo_picasso" />
+            <option value="$PROJECT_DIR$/demo_retrofit" />
+            <option value="$PROJECT_DIR$/demo_volley" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
